@@ -1,2 +1,0 @@
-# TheBiography
-html, css
