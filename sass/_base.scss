@@ -1,0 +1,22 @@
+body {
+    font-family: 'Gilroy Bold';
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+.container {
+    width: 940px;
+    margin: 0 auto;
+    @media (max-width: 940px) {
+        width: 100%;
+    }
+}
+
+.title {
+    font-family: 'Gilroy Bold';
+    color: $black;
+    font-size: 34px;
+    text-align: center;
+}
