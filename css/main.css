@@ -41,6 +41,7 @@ body {
   text-align: center;
 }
 
+
 .header {
   margin-bottom: 100px;
   padding-top: 72px;
@@ -137,6 +138,7 @@ body {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
+  border-bottom: 1px solid #828282;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
       -ms-flex-pack: center;
